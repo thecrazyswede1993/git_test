@@ -1,0 +1,1 @@
+This is thecrazyswede's first Git project!
